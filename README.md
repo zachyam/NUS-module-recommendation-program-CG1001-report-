@@ -15,11 +15,11 @@ So for instance, if a student scores well for CG1001 and has a high individual p
 
 There are 3 files that can be accessed in this repository:
 
-1) NUS_Module_Recommendation.c is the source code in C
+1) NUS_Module_Recommendation.c is the source code in C.
 
-2) NUS_Module_Recommendation.exe is the executable file for Windows
+2) NUS_Module_Recommendation.exe is the executable file for Windows. To download, click on the link and click on 'View raw'.
 
-3) NUS_Module_Recommendation.out is the executable file for OSX
+3) NUS_Module_Recommendation.out is the executable file for OSX. To download, click on the link and cick on 'View raw'.
 
 Limitations
 
