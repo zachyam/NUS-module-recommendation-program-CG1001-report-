@@ -19,7 +19,7 @@ There are 3 files that can be accessed in this repository:
 
 2) NUS_Module_Recommendation.exe is the executable file for Windows. To download, click on the link and click on 'View raw'.
 
-3) NUS_Module_Recommendation.out is the executable file for OSX. To download, click on the link and cick on 'View raw'.
+3) NUS_Module_Recommendation.out is the executable file for OSX. To download, click on the link and click on 'View raw'.
 
 Limitations
 
